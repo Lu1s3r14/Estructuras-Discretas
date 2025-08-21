@@ -1,0 +1,17 @@
+¿Cuáles son las principales diferencias entre Haskell y Java?
+1: Java permite la mutabilidad y en cambio en Haskell es todo inmutable.
+2: Java es un lenguaje orientado a objetos, para desarrollar aplicaciones empresariales, web, etc. Haskell es para desarrollo de aplicaciones cientificas, matematicas.
+3: Tienen diferentes sistemas de tipos, Java es de tipo estatico, es decir, que la variable se determina en tiempo de compilacion, Haskell es de tipo estatico robusto con inferencia de tipo, por lo que el compilador determina el tipo de variable segun su uso.
+
+¿Por que Haskell no ha alcanzado una adopcion significativa en la industria del software?
+Siento que es porque a diferencia de otros lenguajes de programacion, Haskell puede ser muy distinto a otros en forma de "pensar" y ademas de que muchas empresas prefieren ahorrar costos de capacitacion o contratacion de gente experta en Haskell.
+
+Si pudieras realizar una simple analogia entre Git y GitHub ¿Cual se te vendria a la mente?
+Al leer sus caracteristicas de cada uno, creo que seria en que Git es como un tipo de lugar privado en el que puedes hacer tus codigos o experimentos de forma privada y en GitHub es para lo que uno quiere que el mundo vea, algo asi como el "producto final" de lo que hacemos.
+
+Fuentes:
+Swe, S. (2023, April 28). Java vs. Haskell: Understanding the key differences. Medium. https://blog.devgenius.io/java-vs-haskell-understanding-the-key-differences-5b6b777c577e
+(S/f). Reddit.com. Recuperado el 19 de agosto de 2025, de https://www.reddit.com/r/haskell/comments/py8u24/why_did_haskell_not_succeed/?tl=es-es
+
+
+
