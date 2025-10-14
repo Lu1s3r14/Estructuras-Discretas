@@ -12,7 +12,7 @@ Aproximadamente me tardé unas 5 horas repartidas en varios días para realizar 
 1- AB 4 (Vacio) (AB 3 Vacio Vacio)
 ```mermaid
 graph TB
-A1 [4] --> B1[Vacio]
+A1[4] --> B1[Vacio]
 A1 --> C1[3]
 C1 --> D1[Vacio]
 C1 --> E1[Vacio]
