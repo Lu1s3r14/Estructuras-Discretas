@@ -8,7 +8,7 @@ data Orden = InOrden | PreOrden | PosOrden deriving (Eq, Show)
    Uso: ((AB 4 (Vacio) (AB 3 Vacio Vacio ))) = 3
 -}
 
-nVacios :: Arbol a -> Int
+nVacios :: Arbol a -> Intgit st
 nVacios Vacio = 1
 nVacios (AB r t1 t2) = nVacios t1 + nVacios t2
 
